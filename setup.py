@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="streamlit-sortable-list",
-    version="0.1.1",
+    version="0.1.2",
     author="tonyli",
     author_email="renshou753@gmail.com",
     description="Streamlit component to sort a list based on provided input.",
